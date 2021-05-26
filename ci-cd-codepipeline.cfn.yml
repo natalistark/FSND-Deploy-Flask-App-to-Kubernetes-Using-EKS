@@ -32,7 +32,6 @@ Parameters:
 
   GitHubToken:
     Type: String
-    Default: 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
     NoEcho: true
     Description: GitHub API token - see https://github.com/blog/1509-personal-api-tokens
     MinLength: 3
